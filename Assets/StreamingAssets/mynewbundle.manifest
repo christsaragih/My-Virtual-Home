@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 74982241
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3144476cfe2c683f838bf162ecba7d8c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3af27c4f339504e0d9831049198fe987
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3174ace299f2b4c80baf44a6283329cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e617ac95c55644f938929ee87c74b211, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3191e286ab581da4bb2249f5bd68c863, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd979059ad3e96d4fab37956856bb540, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 215
+  Script: {instanceID: 0}
+- Class: 220
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/Capsule.prefab
+- Assets/Scenes/House.prefab
+Dependencies: []
